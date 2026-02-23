@@ -1,0 +1,22 @@
+# NiranOkewole/CamPhD3 - Requirements
+
+# Data processing and numerical computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning and model stacking
+scikit-learn>=0.24.0
+xgboost>=1.5.0
+
+# Data visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipython>=7.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+matplotlib-inline>=0.1.0
